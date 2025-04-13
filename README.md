@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**Thabisa-coder/Thabisa-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🙋‍♀️ Hi, I'm Thabisa Mayambela
 
-Here are some ideas to get you started:
+👀 I'm interested in Wed Development and UX/UI Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔨 I'm profient in CSS and HTML, about to learn JavaScript😁
+
+🌱 I'm looking to focus on growing my knowledge in Wed development and doing more projects
+
+🧠 Current skils: Team Player, Problem Solver and flexible to change
+
+🎯 Goals: Is to  sucessfully complete the CodeSpace Course and build a strong portfolio
+
+🤯 I love learning about extinct creatures
+
+
+
+
+
